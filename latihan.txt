@@ -1,2 +1,3 @@
 satu text alif
 dua text dila
+tiga text alif
